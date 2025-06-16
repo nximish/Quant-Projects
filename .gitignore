@@ -1,0 +1,71 @@
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+
+# === Python cache files ===
+__pycache__/
+*.py[cod]
+
+# === Virtual environments ===
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# === IDE/Editor-specific ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === System files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs and temporary files ===
+*.log
+*.tmp
+*.bak
+*.swp
+
+# === LaTeX build files ===
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.bbl
+*.blg
+*.run.xml
+*.synctex.gz
+
+# === Dataset/Model artifacts (optional - uncomment if needed) ===
+# *.csv
+# *.tsv
+# *.h5
+# *.pkl
+# *.joblib
+# *.npy
+# *.npz
+# *.sav
+# *.db
+# *.sqlite3
+# *.parquet
+
+# === OS generated files ===
+ehthumbs.db
+Icon?
+._*
+
+# === Archive files ===
+*.zip
+*.tar.gz
+*.rar
+*.7z
